@@ -1,0 +1,2 @@
+Get-Process | ForEach-Object -Process {$_}
+Get-Process | ForEach-Object -Process {$psitem}
